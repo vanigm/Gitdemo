@@ -8,6 +8,8 @@ public class helloworld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Navigated to Home Page");
+		System.out.println("Navigated to Home Page1");
+		System.out.println("Navigated to Home Page2");
 		Methods m=new Methods ();
 		System.out.println(m.ValidateHeader());
 		
