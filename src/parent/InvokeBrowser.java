@@ -17,6 +17,7 @@ public class InvokeBrowser {
 		//WebDriver Selenium = new InternetExplorerDriver();
 		System.setProperty("webdriver.gecko.driver","C://Users/AMRESH/Downloads/geckodriver-v0.19.1-win64/geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
+		System.out.println("Invoked Firefox browser");
 
 		
 		
